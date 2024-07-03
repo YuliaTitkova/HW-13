@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0" height="0">
+    <symbol id="circle" viewBox="0 0 400 400">
+        <circle cx="200" cy="200" r="200"/>
+    </symbol>
+    <symbol id="ellipse" viewBox="0 0 400 239">
+        <ellipse cx="200" cy="119.5" rx="200" ry="119.5"/>
+    </symbol>
+    <symbol id="rectangle" viewBox="0 0 400 200">
+        <rect width="400" height="200"/>
+    </symbol>
+    <symbol id="square" viewBox="0 0 400 400">
+        <rect width="400" height="400"/>
+    </symbol>
+</svg>
